@@ -1,0 +1,12 @@
+{
+	"id": 7440164,
+	"epoch_second": 1568039299,
+	"problem_id": "abc140_b",
+	"contest_id": "abc140",
+	"user_id": "mhiroaki",
+	"language": "JavaScript (node.js v5.12)",
+	"point": 200,
+	"length": 565,
+	"result": "AC",
+	"execution_time": 56
+}
