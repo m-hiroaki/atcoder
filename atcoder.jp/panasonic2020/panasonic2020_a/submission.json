@@ -1,0 +1,12 @@
+{
+	"id": 10828651,
+	"epoch_second": 1584187358,
+	"problem_id": "panasonic2020_a",
+	"contest_id": "panasonic2020",
+	"user_id": "mhiroaki",
+	"language": "JavaScript (node.js v5.12)",
+	"point": 100,
+	"length": 281,
+	"result": "AC",
+	"execution_time": 1243
+}
