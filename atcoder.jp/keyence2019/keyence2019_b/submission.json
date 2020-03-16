@@ -1,0 +1,12 @@
+{
+	"id": 10948761,
+	"epoch_second": 1584373819,
+	"problem_id": "keyence2019_b",
+	"contest_id": "keyence2019",
+	"user_id": "mhiroaki",
+	"language": "JavaScript (node.js v5.12)",
+	"point": 200,
+	"length": 451,
+	"result": "AC",
+	"execution_time": 51
+}
