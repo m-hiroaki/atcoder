@@ -1,0 +1,12 @@
+{
+	"id": 11258141,
+	"epoch_second": 1585384595,
+	"problem_id": "codefestival_2015_qualB_b",
+	"contest_id": "code-festival-2015-qualb",
+	"user_id": "mhiroaki",
+	"language": "JavaScript (node.js v5.12)",
+	"point": 100,
+	"length": 537,
+	"result": "AC",
+	"execution_time": 87
+}
