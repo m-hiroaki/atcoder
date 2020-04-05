@@ -1,0 +1,12 @@
+{
+	"id": 11592263,
+	"epoch_second": 1586093542,
+	"problem_id": "judge_update_202004_c",
+	"contest_id": "judge-update-202004",
+	"user_id": "mhiroaki",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 300,
+	"length": 4786,
+	"result": "AC",
+	"execution_time": 16
+}
