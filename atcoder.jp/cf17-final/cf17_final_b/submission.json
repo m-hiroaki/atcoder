@@ -1,0 +1,12 @@
+{
+	"id": 11705669,
+	"epoch_second": 1586470479,
+	"problem_id": "cf17_final_b",
+	"contest_id": "cf17-final",
+	"user_id": "mhiroaki",
+	"language": "JavaScript (node.js v5.12)",
+	"point": 400,
+	"length": 440,
+	"result": "AC",
+	"execution_time": 67
+}
