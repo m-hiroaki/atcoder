@@ -1,0 +1,12 @@
+{
+	"id": 17319876,
+	"epoch_second": 1602340567,
+	"problem_id": "hhkb2020_c",
+	"contest_id": "hhkb2020",
+	"user_id": "mhiroaki",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 300,
+	"length": 8597,
+	"result": "AC",
+	"execution_time": 461
+}
