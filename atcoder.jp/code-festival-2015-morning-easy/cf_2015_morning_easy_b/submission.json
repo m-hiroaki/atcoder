@@ -1,0 +1,12 @@
+{
+	"id": 18518315,
+	"epoch_second": 1606829372,
+	"problem_id": "cf_2015_morning_easy_b",
+	"contest_id": "code-festival-2015-morning-easy",
+	"user_id": "mhiroaki",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 9429,
+	"result": "AC",
+	"execution_time": 7
+}
