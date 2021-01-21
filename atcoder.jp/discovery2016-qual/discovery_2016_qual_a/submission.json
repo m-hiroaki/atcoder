@@ -1,0 +1,12 @@
+{
+	"id": 19554971,
+	"epoch_second": 1611242488,
+	"problem_id": "discovery_2016_qual_a",
+	"contest_id": "discovery2016-qual",
+	"user_id": "mhiroaki",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 9919,
+	"result": "AC",
+	"execution_time": 8
+}
